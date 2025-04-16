@@ -1,0 +1,431 @@
+/* Medium Layout: 1280px. */
+ @media only screen and (min-width: 992px) and (max-width: 1280px) {
+}
+/* Tablet Layout: 768px. */
+ @media only screen and (min-width: 767px) and (max-width: 991px) {
+	body {
+        overflow-x: hidden;
+    }
+     .mainmenu .navbar-nav li {
+         margin-right: 19px;
+    }
+     .mainmenu .nav.navbar-nav.navbar-right {
+         margin: 0;
+    }
+     .logo {
+         text-align: center;
+    }
+     .animate-homepage-text.text-center > p {
+         padding: 0;
+    }
+     .section-title p {
+         padding: 0;
+    }
+    .single-promo-start {
+    width: 100%;
+    }
+
+    .hero-fullseen-homage-text h2 {
+    font-size: 50px;
+    line-height: 60px;
+    }
+    .header-top-area.menu-strick-bg {
+    padding-bottom: 15px;
+    }
+    .about-text {
+         margin-top: 30px;
+    }
+	.single-price-item{
+		margin-top:30px;
+	}
+	.single-team-item {
+	margin-top: 30px;
+    }
+	.call-to-action-small-area h2 {
+	font-size: 25px;
+	line-height: 34px;
+    }
+	.portfolio-item {
+        width: 50%;
+    }
+     .hero-fullseen-animate p, .single-slide-item p, .single-twitter-feed p {
+         padding: 0 80px;
+    }
+
+    .single-slide-item h2 {
+         font-size: 45px;
+    }
+     .start-project-info-text {
+         margin-bottom: 15px;
+    }
+     .contact-form {
+         margin-top: 30px;
+    }
+     .footer-copy-right p {
+         text-align: center;
+    }
+     .footer-bottom-menu {
+         margin-top: 10px;
+         text-align: center;
+    }
+	.footer-wedget {
+	  margin-top: 30px;
+     }
+     .hero-fullseen-homage-text > p {
+         padding: 0;
+    }
+	.single-fact {
+		margin-top: 30px;
+	}
+
+    .dropdown_menu ul li a{color: #fff;}
+    #menu li a {
+        color: #ececec !important;
+    }
+
+
+}
+/* Mobile Layout: 320px. */
+ @media only screen and (max-width: 767px) {
+     .navbar-toggle .icon-bar {
+         background: #ee5253;
+    }
+     .menu-strick-bg .navbar-toggle .icon-bar {
+         background: #ee5253;
+    }
+     .navbar-toggle {
+         margin-right: 0px;
+         margin-top: -30px;
+    }
+     .menu-strick-bg .logo {
+         padding-bottom: 10px;
+    }
+     .menu-strick-bg .navbar-toggle{
+         margin-top: -43px;
+    }
+     .navbar {
+         min-height: 0px;
+    }
+     .mainmenu .navbar-nav li a {
+         padding: 11px 15px;
+    }
+     .menu-strick-bg .mainmenu .navbar-nav li a {
+         padding: 11px 15px;
+    }
+     .navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse {
+         max-height: 420px;
+    }
+     .navbar-toggle {
+         margin-top: -35px;
+    }
+     .navbar-collapse {
+         background: #000;
+    }
+     .menu-strick-bg .navbar-collapse {
+         background: #000;
+    }
+     .menu-strick-bg .mainmenu .navbar-nav li a {
+         color: #fff;
+    }
+     .menu-strick-bg .mainmenu .navbar-nav li a:hover {
+         color: #ccc;
+    }
+     .mainmenu .navbar-nav li a:hover {
+         color: #ccc;
+    }
+
+    .dropdown_menu ul li a{color: #fff;}
+    #menu li a {
+        color: #ececec !important;
+    }
+
+    .single-slide-item p, .hero-fullseen-homage-text > p {
+        padding: 0;
+        font-size: 18px;
+    }
+    .header-top-area.menu-strick-bg {
+    padding-bottom: 15px;
+    }
+    .single-promo-about {
+    width: 100%;
+    text-align: left;
+    }
+
+    .single-promo-start {
+      float: left;
+      width: 100%;
+      padding-right: 0;
+    }
+    .call-action-text p {
+    padding: 0 15px;
+    }
+
+    .home-welcome-text.text-center > h2, .hero-fullseen-homage-text h2 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+     .single-slide-item h2{
+         font-size: 28px;
+    }
+     .hero-fullseen-animate h2 {
+         font-size: 20px;
+    }
+     .hero-fullseen-animate p {
+         padding: 0;
+    }
+     a.slide-btn {
+         padding: 12px 16px;
+         font-size: 12px;
+         margin-bottom:10px;
+    }
+    div.about-text h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+	.single-blog-item {
+		margin-top: 30px;
+	}
+	.single-fact {
+		margin-top: 30px;
+	}
+
+    .pricingTable {
+    margin-bottom: 30px;
+}
+
+.vince_blog_right_side {
+    margin-top: 30px;
+}
+
+     .single-service {
+         padding: 30px 20px;
+    }
+	.promo-video.text-center h2 {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.promo-video.text-center h4 {
+		line-height: 22px;
+	}
+	.single-price-item {
+		margin-top: 30px;
+	}
+	.singleSkill {
+		margin-top: 30px;
+	}
+	.singleSkill h4 {
+	margin-top: 15px;
+	font-size: 16px;
+   }
+	.team-social ul li a i.fa {
+	font-size: 15px;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;;
+	}
+	.team-social ul li a {
+	margin-right: 5px;
+	text-align: center;
+    }
+	.portfolio-area{
+		padding-top:50px;
+		padding-bottom:30px;
+	}
+	.testimonial-dec p {
+		line-height: 26px;
+		font-size:15px;
+	}
+    .call-action-text h2 {
+        margin-bottom: 10px;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .client-brand {
+    margin-bottom: 30px;
+    }
+    .client-brand {
+        margin: 0 auto;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+	.instagram-image span.item img {
+		width: 77px;
+		height: 77px;
+	}
+	.scroll-up {
+		bottom: 75px;
+	}
+    .call-to-action-small-area h2 {
+        font-size: 22px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .call-to-action-small-button {
+      float: left;
+    }
+    .postdate {
+        top: 31px;
+    }
+	.single-sidebar {
+	margin-bottom: 0;
+    }
+     .portfolio-filter-list ul li {
+         margin: 0 2px 6px;
+         padding: 8px 16px;
+         width: 85px;
+    }
+    .view-icon a {
+		height: 45px;
+		line-height: 45px;
+		width: 45px;
+		font-size: 16px;
+	}
+	.portfolio-caption h4 {
+		font-size: 12px;
+	}
+     .contact-form {
+         margin-top: 30px;
+    }
+     .contact-info > h2 {
+         font-size: 22px;
+    }
+     
+     .footer-bottom-menu ul li a {
+         padding: 6px 10px;
+         text-align: left;
+    }
+     .section-title p {
+         padding: 0;
+    }
+     .about-text {
+         margin-top: 30px;
+    }
+     .about-text h2 {
+         font-size: 20px;
+         line-height: 27px;
+    }
+	
+	.item .grid figure,
+    .gallery .grid figure {
+        min-width: 100%;
+    }
+	
+	.portfolio-item {
+        width: 50%;
+    }
+	.section-title h2 {
+	font-size: 25px;
+	}
+	.section-title h2::before {
+	top: 43px;
+   }
+   .section-spaceing{
+	   padding:50px 0;
+   }
+   .section-title {
+	margin-bottom: 30px;
+   }
+   .single-team-item {
+	margin-top: 30px;
+   }
+   .team-image-details {
+	width: 100%;
+	float: none;
+    }
+	.team-description {
+	width: 100%;
+	float: none;
+    }
+   .section-title h2::after {
+	top: 45px;
+   }
+	.single-sidebar {
+		margin-top: 30px;
+	}
+	.single-blog-item h2.big-title {
+	font-size: 20px;
+	line-height: 25px;
+    }
+	.single-comment img {
+	float: none;
+	margin-right: 0;
+	margin-bottom: 0;
+    }
+	.footer-wedget {
+	overflow: hidden;
+	margin-top: 30px;
+   }
+   .single-blog-item h2 {
+	font-size: 18px;
+	line-height: 22px;
+    }
+	.animated-text-in h2 b{font-size:18px;}
+    body{
+		overflow-x:hidden;
+	}
+
+    ul.contact-us-address li div.inner {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    .footer-social {
+    text-align: left;
+    margin-top: 15px;
+}
+	
+
+}
+
+
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: landscape) { 
+
+    .hero-fullseen-homage-text h2 {
+        font-size: 30px;
+        margin-bottom: 10px;
+        line-height: 40px;
+    }
+
+    .header-top-area.menu-strick-bg {
+    padding-bottom: 15px;
+    }
+
+    #menu li a {
+        color: #ececec !important;
+    }
+    
+    .hero-fullseen-homage-text > p{font-size: 18px;}
+
+    .single-promo-start {
+        width: 50%;
+    }
+    .client-brand{margin-bottom: 30px;}
+
+    .call-action-text h2 {
+    line-height: 40px;
+    margin-top: 0;
+    font-size: 30px;
+    }
+
+    .call-to-action-small-button {width: 100%;}
+
+    ul.contact-us-address li div.inner {
+    margin-top: 15px;
+    width: 100%;
+    }
+
+    
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+ @media only screen and (min-width: 480px) and (max-width: 767px) {
+}
